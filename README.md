@@ -18,7 +18,7 @@ It's broken down into different "weeks," which each cover a different topic.  Th
 #### * Week 3: Plotting
   - How to make plots using matplotlib or ggplot
   
-#### * Week 4: scRNA - general workflow
+#### * Week 4: scRNA - General workflow
   - How to import scRNA data from a 10x Genomics experiment
   - An analysis of PBMCs: clustering and cell-type annotation
   
