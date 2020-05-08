@@ -8,17 +8,17 @@ It's broken down into different "weeks," which each cover a different topic.  Th
 
 ## Topics:
 
-#### * Week 1: Introduction
+#### Week 1: Introduction
   - General introduction to Python or R
   - Analyzing CRISPR mutation data: from FASTQs to analysis
   
-#### * Week 2: Dataframes
+#### Week 2: Dataframes
   - How to work with a dataframe and find data of interest
   
-#### * Week 3: Plotting
+#### Week 3: Plotting
   - How to make plots using matplotlib or ggplot
   
-#### * Week 4: scRNA - General workflow
+#### Week 4: scRNA - General workflow
   - How to import scRNA data from a 10x Genomics experiment
   - An analysis of PBMCs: clustering and cell-type annotation
   
@@ -26,7 +26,7 @@ It's broken down into different "weeks," which each cover a different topic.  Th
   - How is CITE-seq data different than RNA-seq data?
   - How do we process and incorporate this data?
   
-#### * Week 6: scRNA - Adding in TCR (and BCR) data; and a finer-grained analysis of T cells
+#### Week 6: scRNA - Adding in TCR (and BCR) data; and a finer-grained analysis of T cells
   - Looking at the clonotype of each cell
   - Subsetting a particular population of interest (T cells) for a finer-grained analysis
   - Computing gene module scores
