@@ -26,7 +26,7 @@ It's broken down into different "weeks," which each cover a different topic.  Th
   - How is CITE-seq data different than RNA-seq data?
   - How do we process and incorporate this data?
   
-#### * Week 6: Looking at lymphocytes: adding in TCR (and BCR) data
+#### * Week 6: Looking at lymphocytes - subsetting populations of interest and adding in TCR (and BCR) data
   - Looking at the clonotype of each cell
   - Subsetting a particular population of interest (T cells) for a finer-grained analysis
   - Computing gene module scores
