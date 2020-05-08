@@ -52,5 +52,5 @@ Plotting can be tricky! If you're curious, weeks 3, 4, 5, and 6 have a lot of pl
 
 ## Contributors:
 
-* Kevin Parker  
-* Katie Yost
+* Kevin Parker (krparker@stanford.edu)
+* Katie Yost (kyost@stanford.edu)
