@@ -30,14 +30,6 @@ It's broken down into different "weeks," which each cover a different topic.  Th
   - Looking at the clonotype of each cell
   - Subsetting a particular population of interest (T cells) for a finer-grained analysis
   - Computing gene module scores
-  
-## Plotting:
-
-Plotting can be tricky! If you're curious, weeks 3, 4, 5, and 6 have a lot of plotting, and might be of interest:
-
-* Week 3: general introduction to making plots
-* Week 4: using the built-in plotting functions in scanpy and Seurat for scRNA
-* Weeks 5 & 6: Breaking out of the scanpy/Seurat defaults to make more complex, figure-quality plots
 
 ### Tools/Packages:
 
@@ -51,6 +43,15 @@ Plotting can be tricky! If you're curious, weeks 3, 4, 5, and 6 have a lot of pl
   * test
   * test 
   * test 
+
+
+## Plotting:
+
+Plotting can be tricky! If you're curious, weeks 3, 4, 5, and 6 have a lot of plotting, and might be of interest:
+
+* Week 3: general introduction to making plots
+* Week 4: using the built-in plotting functions in scanpy and Seurat for scRNA
+* Weeks 5 & 6: Breaking out of the scanpy/Seurat defaults to make more complex, figure-quality plots
 
 ## Contributors:
 
