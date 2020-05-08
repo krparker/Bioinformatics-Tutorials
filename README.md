@@ -4,18 +4,7 @@
 
 It's broken down into different "weeks," which each cover a different topic.  The first two weeks are primarily meant as introdcutions for those who haven't worked with R or Python before; if you're already experienced in one of those languges, then you might consider skipping ahead.
 
-**Each week consists of a jupyter notebook written in either Python or R**.  These notebooks cover the same material, although not necessarily in the same way (based on how you might do something in Python vs. R), and take advantage of the different packages built for each language.  In particular, we focus on:
-
-#### Python:
-  * pandas
-  * numpy
-  * matplotlib
-  * scanpy
-
-#### R:
-  * test
-  * test 
-  * test 
+**Each week consists of a jupyter notebook written in either Python or R**.  These notebooks cover the same material, although not necessarily in the same way (based on how you might do something in Python vs. R), and take advantage of the different packages built for each language.
 
 ## Topics:
 
@@ -49,6 +38,19 @@ Plotting can be tricky! If you're curious, weeks 3, 4, 5, and 6 have a lot of pl
 * Week 3: general introduction to making plots
 * Week 4: using the built-in plotting functions in scanpy and Seurat for scRNA
 * Weeks 5 & 6: Breaking out of the scanpy/Seurat defaults to make more complex, figure-quality plots
+
+### Tools/Packages:
+
+#### Python:
+  * pandas
+  * numpy
+  * matplotlib
+  * scanpy
+
+#### R:
+  * test
+  * test 
+  * test 
 
 ## Contributors:
 
